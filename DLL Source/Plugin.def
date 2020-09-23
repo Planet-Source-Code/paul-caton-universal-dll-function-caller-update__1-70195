@@ -1,0 +1,15 @@
+;
+; Plugin dll exports
+;
+
+LIBRARY Plugin
+
+EXPORTS
+        MyFunc1		@1
+        MyFunc2		@2
+        MyCallback	@3
+        MyShape		@4
+        Fast1		@5
+        Fast2		@6
+        Fast3		@7
+

@@ -1,0 +1,17 @@
+;
+; MyDll.dll exports
+;
+
+LIBRARY MyDll
+
+EXPORTS
+		GetByte			@1
+		GetInteger  	@2
+		GetLong			@3
+		GetPointer		@4
+		GetInt64		@5
+		GetSingle		@6
+		GetDouble		@7
+		GetDblInc		@8
+		Subroutine		@9
+        
